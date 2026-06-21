@@ -165,7 +165,7 @@ public class Main {
                             "Invalid menu option.");
             }
 
-        } while (choice != 8);
+        } while (choice != 6);
 
         input.close();
     }
